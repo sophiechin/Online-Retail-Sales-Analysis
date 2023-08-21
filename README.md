@@ -12,3 +12,5 @@ We run python script to analyze the data and we use the following python librari
 - Pandas
 - Numpy
 - Mathplotlib/Seaborn
+
+[CLICK HERE](https://www.kaggle.com/code/sophiekanhachin/online-retail-analysis) to view this project in Kaggle.
